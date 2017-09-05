@@ -1,2 +1,3 @@
-# tundes-portfolio
-Tunde Abolaji's Professional Portfolio
+# Tunde Abolaji's Portfolio
+
+This is my Professional Portfolio. It uses AWS and ReactJS.
